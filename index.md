@@ -1,3 +1,0 @@
-# Index File
-
-Let's see if that one shows up...
