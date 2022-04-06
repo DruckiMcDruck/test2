@@ -6,4 +6,4 @@ AMIBIOS8 is a software platform that is developed by American Megatrends Incorpo
 
 The modules in AMIBIOS8 are listed as follows:
 
-![My helpful screenshot](/img/ami8/ami8_modules.png)
+![AMI8 bios modules](/test2/assets/images/ami8/ami8_modules.png)
