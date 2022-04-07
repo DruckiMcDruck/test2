@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AMI 8 Test 2
+parent: AMI 8 Overview
 nav_order: 2
 ---
 
