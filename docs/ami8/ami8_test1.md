@@ -2,7 +2,7 @@
 layout: default
 title: AMI 8 Test 1
 parent: AMI 8 Overview
-nav_order: 1
+nav_order: 3
 ---
 
 # AMIBIOS8 Test 1

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AMI 8 Structure
+parent: AMI 8 Overview
 nav_order: 3
 has_children: true
 ---
