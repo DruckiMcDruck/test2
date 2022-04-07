@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AMI 8 1B Module
+nav_order: 3
 ---
 
 # AMIBIOS8 1B Module

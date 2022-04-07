@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AMI 8 Test 2
+nav_order: 2
 ---
 
 # AMIBIOS8 Test 2
